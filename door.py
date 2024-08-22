@@ -14,6 +14,7 @@ class Door:
     def __init__(self, ref2door_lock, base_color):
         """
         Erzeugt ein Tür-Objekt.c
+
         :param ref2door_lock:
         :param base_color:
         """
