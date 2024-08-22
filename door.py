@@ -114,6 +114,7 @@ class Door:
   """
 
 
+
 class DoorLock:
   """
   dummy Klasse, damit in der Klasse Tuere kein Fehler auftritt
