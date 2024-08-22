@@ -1,3 +1,9 @@
+"""
+Dieses Modul definiert eine Door-Klasse, die eine Türe mit bestimmten
+Eigenschaften und Zuständen beschreibt, sowie eine DoorLock-Klasse,
+die als Dummy für die Verriegelungsmechanismen dient.
+"""
+
 class Door:
     """
     Diese Klasse beschreibt eine Türe mit der Eigenschaft color (Farbe) und den Zuständen
